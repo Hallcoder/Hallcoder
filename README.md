@@ -41,8 +41,9 @@ So far I have the MERN stack skills under my sleeves in additional to TypeScript
 </div>
 <div>
   <h1>:fire: My Stats :</h1>
-  </div>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hallcoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats' />
+  <img src='https://github-readme-stats.vercel.app/api?username=Hallcoder&theme=dark&show_icons=true'
+</div><br>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hallcoder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats' />
 <!---
 Hallcoder/Hallcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
