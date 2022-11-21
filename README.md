@@ -18,8 +18,10 @@
   - 👋 Hi, I’m <strong>MWENEDATA Apotre</h1> 
   <div>
   </div>
-  - 🌱 Software Engineer at <strong>Rwanda Coding Academy</h1><br />
-  - 💞️ I’m looking to collaborate on any project as an intermediate Fullstack Developer and do all I can....<br />
+  - 🌱 Software Engineer and  FullStack developer in the MERN Stack <br >
+  - Open Source Contributor. <br />
+  - Currently looking for a job opportunity....  👋 
+  
   </div>
 So far I have the MERN stack skills under my sleeves in additional to TypeScript,C,PHP,MYSQL AND C++ solid knowledge.
 <div id="tools and languages">
@@ -39,6 +41,7 @@ So far I have the MERN stack skills under my sleeves in additional to TypeScript
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sanity/sanity-original-wordmark.svg" title="Git" **alt="Sanity" width="40" height="40"/>
 </div>
 </div>
 <div>
